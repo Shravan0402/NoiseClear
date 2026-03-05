@@ -20,7 +20,7 @@ class RingBuffer:
     def write(self, data):
         """Write samples into the buffer. Returns number of samples written."""
         n = len(data)
-        available = self._capacity - self.available_read()
+        available = self.available_write()
         if n > available:
             n = available
         if n == 0:
