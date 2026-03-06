@@ -28,9 +28,14 @@ Thumbs.db
 .DS_Store
 
 # App generated
+settings.json
+
+# Images (except project icons and logo)
 *.ico
 *.png
-settings.json
+!icon.ico
+!icon.png
+!assets/logo.png
 
 # Distribution (large build artifacts)
 dist/
