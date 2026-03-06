@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Real-time noise cancellation for Windows</strong><br/>
-  Crystal-clear voice in Zoom, Discord, Google Meet, and any app
+  Crystal-clear voice in Zoom, Discord, Google Meet, Microsoft Teams, and any app of choice.
 </p>
 
 <p align="center">
